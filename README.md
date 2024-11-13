@@ -2,7 +2,8 @@
 
 In this personal project I:
 
-- Simulated clinical performance data with a do-loop and generated a confusion matrix using PROC SQL
-- Applied PROC SURVEYSELECT for bootstrapping and calculated performance metrics with PROC SQL
-- Generated confidence intervals with PROC UNIVARIATE and utilized PROC PRINT to output results
+- Performed external concordance study of follow-on companion diagnostic without a reference standard
+- Simulated clinical performance data with do-loops and generated confusion matrices using PROC SQL
+- Applied bootstrapping with PROC SURVEYSELECT to derive nonparametric performance statistics
+- Generated confidence intervals with PROC UNIVARIATE and automated reporting via PROC PRINT
 
