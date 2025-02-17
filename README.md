@@ -1,4 +1,4 @@
-# Clinical bootstrapping in SAS & R
+# Clinical Bootstrapping in SAS & R
 
 In this personal project I:
 
